@@ -1,4 +1,4 @@
-package Day_9;
+package Day9;
 import java.io.IOException;
 import java.util.Scanner;
 
